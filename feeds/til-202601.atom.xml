@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Jihye TIL &amp; Research - TIL-2026.01</title><link href="https://jihye-22.github.io/" rel="alternate"/><link href="https://jihye-22.github.io/feeds/til-202601.atom.xml" rel="self"/><id>https://jihye-22.github.io/</id><updated>2026-01-03T00:00:00+09:00</updated><entry><title>[TIL] 260103</title><link href="https://jihye-22.github.io/til-260103.html" rel="alternate"/><published>2026-01-03T00:00:00+09:00</published><updated>2026-01-03T00:00:00+09:00</updated><author><name>Jihye Kim</name></author><id>tag:jihye-22.github.io,2026-01-03:/til-260103.html</id><summary type="html">&lt;p&gt;&lt;span class="caps"&gt;ENR&lt;/span&gt; 평균 데이터 준비, 토익 800+ Part5&amp;nbsp;시작&lt;/p&gt;</summary><content type="html">&lt;h2&gt;2. 연구&amp;nbsp;(Research)&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Jihye TIL &amp; Research - TIL-2026.01</title><link href="https://jihye-22.github.io/" rel="alternate"/><link href="https://jihye-22.github.io/feeds/til-202601.atom.xml" rel="self"/><id>https://jihye-22.github.io/</id><updated>2026-01-02T00:00:00+09:00</updated><entry><title>[TIL] 260102</title><link href="https://jihye-22.github.io/til-260102.html" rel="alternate"/><published>2026-01-02T00:00:00+09:00</published><updated>2026-01-02T00:00:00+09:00</updated><author><name>Jihye Kim</name></author><id>tag:jihye-22.github.io,2026-01-02:/til-260102.html</id><summary type="html">&lt;p&gt;학회 포스터 데이터 준비, 토익 800+ part5&amp;nbsp;시작&lt;/p&gt;</summary><content type="html">&lt;h2&gt;2. 연구&amp;nbsp;(Research)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;연구 목표&lt;/strong&gt;: 학회 포스터 용 &lt;span class="caps"&gt;ENR&lt;/span&gt; missing data processing&amp;nbsp;data &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;시도한 내용&lt;/strong&gt;: 실제 혈당 데이터를 하루치씩 나눈 뒤, 10일씩 평균 내어 모델&amp;nbsp;학습&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;결과 및 해결책&lt;/strong&gt;: 데이터 시간 간격을 맞추기 위해 resampling by&amp;nbsp;interpolation, &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Future work&lt;/strong&gt;: 전체 데이터에 대해 노드 개수 별로 실험한 후 interpolation 간격 변화시키며 학습 결과&amp;nbsp;확인&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;연구 목표&lt;/strong&gt;: 학회 포스터 missing data processing 데이터&amp;nbsp;준비&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;시도한 내용&lt;/strong&gt;: 데이터 10일치씩 평균내어&amp;nbsp;사용&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;결과 및 해결책&lt;/strong&gt;: interpolation을 통해 시간 간격&amp;nbsp;통일&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Future work&lt;/strong&gt;: 노드 별 실험, resolution&amp;nbsp;변경&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2&gt;5. 자격증&amp;nbsp;준비&lt;/h2&gt;
-&lt;h3&gt;오늘치 목표 달성&amp;nbsp;현황&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;[ ] 토익: Part5&amp;nbsp;명사&lt;/li&gt;
-&lt;li&gt;[ ]&amp;nbsp;정처기&lt;/li&gt;
-&lt;li&gt;[ ]&amp;nbsp;컴활&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;오답&amp;nbsp;분석&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;틀린 이유&lt;/strong&gt;:&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;다시 외울 것&lt;/strong&gt;: &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;과목명&lt;/strong&gt;:&amp;nbsp;토익&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;학습 내용&lt;/strong&gt;: Part5&amp;nbsp;명&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;기억할 점&lt;/strong&gt;:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2&gt;💡 내일의 Action&amp;nbsp;Plan&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;현재 부족한 부분 파악 및 내일 우선순위&amp;nbsp;설정&lt;/li&gt;
-&lt;/ul&gt;</content><category term="TIL-2026.01"/><category term="daily"/><category term="research"/><category term="english"/></entry></feed>
+&lt;li&gt;&lt;span class="caps"&gt;ENR&lt;/span&gt; 코드&amp;nbsp;정리&lt;/li&gt;
+&lt;li&gt;노드 바꿔가며 실험 (10 ~&amp;nbsp;1000000)&lt;/li&gt;
+&lt;li&gt;resolution 변경 (5m, 10m, 15m,&amp;nbsp;)&lt;/li&gt;
+&lt;/ul&gt;</content><category term="TIL-2026.01"/><category term="daily"/></entry></feed>

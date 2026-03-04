@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Jihye TIL &amp; Research - TIL-2025.12</title><link href="https://jihye-22.github.io/" rel="alternate"/><link href="https://jihye-22.github.io/feeds/til-202512.atom.xml" rel="self"/><id>https://jihye-22.github.io/</id><updated>2025-12-30T00:00:00+09:00</updated><entry><title>[TIL] Templete</title><link href="https://jihye-22.github.io/til-templete.html" rel="alternate"/><published>2025-12-30T00:00:00+09:00</published><updated>2025-12-30T00:00:00+09:00</updated><author><name>Jihye Kim</name></author><id>tag:jihye-22.github.io,2025-12-30:/til-templete.html</id><summary type="html">&lt;p&gt;오늘 발견한 작은&amp;nbsp;깨달음&lt;/p&gt;</summary><content type="html">&lt;h2&gt;1. 물리학 &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; 인공지능&amp;nbsp;이론&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Jihye TIL &amp; Research - TIL-2025.12</title><link href="https://jihye-22.github.io/" rel="alternate"/><link href="https://jihye-22.github.io/feeds/til-202512.atom.xml" rel="self"/><id>https://jihye-22.github.io/</id><updated>2025-12-30T00:00:00+09:00</updated><entry><title>[TIL] 251230</title><link href="https://jihye-22.github.io/til-251230.html" rel="alternate"/><published>2025-12-30T00:00:00+09:00</published><updated>2025-12-30T00:00:00+09:00</updated><author><name>Jihye Kim</name></author><id>tag:jihye-22.github.io,2025-12-30:/til-251230.html</id><summary type="html">&lt;p&gt;오늘 발견한 작은&amp;nbsp;깨달음&lt;/p&gt;</summary><content type="html">&lt;h2&gt;1. 물리학 &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; 인공지능&amp;nbsp;이론&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;핵심 개념&lt;/strong&gt;: &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;수식 및 의미&lt;/strong&gt;: &lt;/li&gt;
@@ -30,19 +30,22 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2&gt;5. 자격증&amp;nbsp;준비&lt;/h2&gt;
-&lt;h3&gt;오늘치 목표 달성&amp;nbsp;현황&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;[ ]&amp;nbsp;토익&lt;/li&gt;
-&lt;li&gt;[ ]&amp;nbsp;정처기&lt;/li&gt;
-&lt;li&gt;[ ]&amp;nbsp;컴활&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;오답&amp;nbsp;분석&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;틀린 이유&lt;/strong&gt;:&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;다시 외울 것&lt;/strong&gt;: &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;과목명&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;학습 내용&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;기억할 점&lt;/strong&gt;:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2&gt;💡 내일의 Action&amp;nbsp;Plan&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;현재 부족한 부분 파악 및 내일 우선순위&amp;nbsp;설정&lt;/li&gt;
+&lt;/ul&gt;</content><category term="TIL-2025.12"/><category term="daily"/></entry><entry><title>[TIL] Templete</title><link href="https://jihye-22.github.io/til-templete.html" rel="alternate"/><published>2025-12-30T00:00:00+09:00</published><updated>2025-12-30T00:00:00+09:00</updated><author><name>Jihye Kim</name></author><id>tag:jihye-22.github.io,2025-12-30:/til-templete.html</id><summary type="html"/><content type="html">&lt;h1&gt;1. Today&amp;#8217;s&amp;nbsp;Study&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;Research&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;strong&gt;Theory&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;strong&gt;Paper&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h1&gt;2. Future Action&amp;nbsp;Plan&lt;/h1&gt;
+&lt;h2&gt;-&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><category term="TIL-2025.12"/><category term="daily"/></entry></feed>
