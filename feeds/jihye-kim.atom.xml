@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Jihye TIL &amp; Research - Jihye Kim</title><link href="https://jihye-22.github.io/" rel="alternate"/><link href="https://jihye-22.github.io/feeds/jihye-kim.atom.xml" rel="self"/><id>https://jihye-22.github.io/</id><updated>2026-03-04T00:00:00+09:00</updated><entry><title>[TIL] 260304</title><link href="https://jihye-22.github.io/til-260304.html" rel="alternate"/><published>2026-03-04T00:00:00+09:00</published><updated>2026-03-04T00:00:00+09:00</updated><author><name>Jihye Kim</name></author><id>tag:jihye-22.github.io,2026-03-04:/til-260304.html</id><summary type="html">&lt;p&gt;daily&lt;/p&gt;</summary><content type="html">&lt;h1&gt;1. Today&amp;#8217;s&amp;nbsp;Study&lt;/h1&gt;
 &lt;h2&gt;&lt;strong&gt;Research&lt;/strong&gt;&lt;/h2&gt;
-&lt;h1&gt;&lt;span class="caps"&gt;ECG&lt;/span&gt; 데이터&amp;nbsp;분석&lt;/h1&gt;
+&lt;h3&gt;&lt;span class="caps"&gt;ECG&lt;/span&gt; 데이터&amp;nbsp;분석&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Decimation sampling, Normal sampling 했을 때 &lt;span class="caps"&gt;FFT&lt;/span&gt; 결과에 차이&amp;nbsp;존재&lt;/li&gt;
 &lt;li&gt;Normal sampling 에서 나타나는 변화가 Aliasing 인지 확인&amp;nbsp;필요&lt;/li&gt;
